@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'dart:async';
 import 'package:flutter_app/screens/homescreen.dart';
+import 'package:flutter_app/screens/signup.dart';
 
 class loginPage extends StatefulWidget {
   @override
